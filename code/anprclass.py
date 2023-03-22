@@ -5,3 +5,4 @@ import imutils
 import cv2
 import os
 
+# script for anpr class
